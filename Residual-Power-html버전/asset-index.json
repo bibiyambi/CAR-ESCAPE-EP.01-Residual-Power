@@ -1,0 +1,1166 @@
+[
+  {
+    "category": "backgrounds",
+    "name": "END",
+    "path": "assets/backgrounds/END.png",
+    "bytes": 3142163
+  },
+  {
+    "category": "backgrounds",
+    "name": "FINAL",
+    "path": "assets/backgrounds/FINAL.png",
+    "bytes": 3179890
+  },
+  {
+    "category": "backgrounds",
+    "name": "S01",
+    "path": "assets/backgrounds/S01.png",
+    "bytes": 2438626
+  },
+  {
+    "category": "backgrounds",
+    "name": "S02-open",
+    "path": "assets/backgrounds/S02-open.png",
+    "bytes": 2485299
+  },
+  {
+    "category": "backgrounds",
+    "name": "S02",
+    "path": "assets/backgrounds/S02.png",
+    "bytes": 2641932
+  },
+  {
+    "category": "backgrounds",
+    "name": "S03",
+    "path": "assets/backgrounds/S03.png",
+    "bytes": 2674714
+  },
+  {
+    "category": "backgrounds",
+    "name": "S04",
+    "path": "assets/backgrounds/S04.png",
+    "bytes": 2243722
+  },
+  {
+    "category": "backgrounds",
+    "name": "S05-forward",
+    "path": "assets/backgrounds/S05-forward.png",
+    "bytes": 2420948
+  },
+  {
+    "category": "backgrounds",
+    "name": "S05",
+    "path": "assets/backgrounds/S05.png",
+    "bytes": 2543406
+  },
+  {
+    "category": "backgrounds",
+    "name": "S06-open",
+    "path": "assets/backgrounds/S06-open.png",
+    "bytes": 3184735
+  },
+  {
+    "category": "backgrounds",
+    "name": "S06",
+    "path": "assets/backgrounds/S06.png",
+    "bytes": 3425466
+  },
+  {
+    "category": "backgrounds",
+    "name": "S07",
+    "path": "assets/backgrounds/S07.png",
+    "bytes": 2483506
+  },
+  {
+    "category": "backgrounds",
+    "name": "S08",
+    "path": "assets/backgrounds/S08.png",
+    "bytes": 2513561
+  },
+  {
+    "category": "backgrounds",
+    "name": "S09",
+    "path": "assets/backgrounds/S09.png",
+    "bytes": 2641859
+  },
+  {
+    "category": "backgrounds",
+    "name": "S10",
+    "path": "assets/backgrounds/S10.png",
+    "bytes": 2747478
+  },
+  {
+    "category": "backgrounds",
+    "name": "S11",
+    "path": "assets/backgrounds/S11.png",
+    "bytes": 2553079
+  },
+  {
+    "category": "backgrounds",
+    "name": "S12",
+    "path": "assets/backgrounds/S12.png",
+    "bytes": 2743618
+  },
+  {
+    "category": "backgrounds",
+    "name": "S13",
+    "path": "assets/backgrounds/S13.png",
+    "bytes": 2811712
+  },
+  {
+    "category": "backgrounds",
+    "name": "S14",
+    "path": "assets/backgrounds/S14.png",
+    "bytes": 2661138
+  },
+  {
+    "category": "backgrounds",
+    "name": "film-04",
+    "path": "assets/backgrounds/film-04.png",
+    "bytes": 3064325
+  },
+  {
+    "category": "backgrounds",
+    "name": "film-05",
+    "path": "assets/backgrounds/film-05.png",
+    "bytes": 2994369
+  },
+  {
+    "category": "cutouts",
+    "name": "bag",
+    "path": "assets/cutouts/bag.svg",
+    "bytes": 2418011
+  },
+  {
+    "category": "cutouts",
+    "name": "card",
+    "path": "assets/cutouts/card.svg",
+    "bytes": 1768906
+  },
+  {
+    "category": "cutouts",
+    "name": "coat",
+    "path": "assets/cutouts/coat.svg",
+    "bytes": 2606398
+  },
+  {
+    "category": "cutouts",
+    "name": "frameToken",
+    "path": "assets/cutouts/frameToken.svg",
+    "bytes": 1694773
+  },
+  {
+    "category": "cutouts",
+    "name": "photo",
+    "path": "assets/cutouts/photo.svg",
+    "bytes": 2056365
+  },
+  {
+    "category": "cutouts",
+    "name": "reader",
+    "path": "assets/cutouts/reader.svg",
+    "bytes": 2317345
+  },
+  {
+    "category": "cutouts",
+    "name": "smartKey",
+    "path": "assets/cutouts/smartKey.svg",
+    "bytes": 2102633
+  },
+  {
+    "category": "cutouts",
+    "name": "tool",
+    "path": "assets/cutouts/tool.svg",
+    "bytes": 2434273
+  },
+  {
+    "category": "cutouts",
+    "name": "victimA",
+    "path": "assets/cutouts/victimA.svg",
+    "bytes": 2232998
+  },
+  {
+    "category": "cutouts",
+    "name": "victimB",
+    "path": "assets/cutouts/victimB.svg",
+    "bytes": 2732888
+  },
+  {
+    "category": "cutouts",
+    "name": "victimC",
+    "path": "assets/cutouts/victimC.svg",
+    "bytes": 2676388
+  },
+  {
+    "category": "alpha",
+    "name": "bag",
+    "path": "assets/alpha/bag.png",
+    "bytes": 21750
+  },
+  {
+    "category": "alpha",
+    "name": "bag",
+    "path": "assets/alpha/bag.svg",
+    "bytes": 1118
+  },
+  {
+    "category": "alpha",
+    "name": "card",
+    "path": "assets/alpha/card.png",
+    "bytes": 17219
+  },
+  {
+    "category": "alpha",
+    "name": "card",
+    "path": "assets/alpha/card.svg",
+    "bytes": 433
+  },
+  {
+    "category": "alpha",
+    "name": "coat",
+    "path": "assets/alpha/coat.png",
+    "bytes": 25410
+  },
+  {
+    "category": "alpha",
+    "name": "coat",
+    "path": "assets/alpha/coat.svg",
+    "bytes": 1142
+  },
+  {
+    "category": "alpha",
+    "name": "frameToken",
+    "path": "assets/alpha/frameToken.png",
+    "bytes": 16611
+  },
+  {
+    "category": "alpha",
+    "name": "frameToken",
+    "path": "assets/alpha/frameToken.svg",
+    "bytes": 724
+  },
+  {
+    "category": "alpha",
+    "name": "photo",
+    "path": "assets/alpha/photo.png",
+    "bytes": 20795
+  },
+  {
+    "category": "alpha",
+    "name": "photo",
+    "path": "assets/alpha/photo.svg",
+    "bytes": 884
+  },
+  {
+    "category": "alpha",
+    "name": "reader",
+    "path": "assets/alpha/reader.png",
+    "bytes": 21503
+  },
+  {
+    "category": "alpha",
+    "name": "reader",
+    "path": "assets/alpha/reader.svg",
+    "bytes": 548
+  },
+  {
+    "category": "alpha",
+    "name": "smartKey",
+    "path": "assets/alpha/smartKey.png",
+    "bytes": 27132
+  },
+  {
+    "category": "alpha",
+    "name": "smartKey",
+    "path": "assets/alpha/smartKey.svg",
+    "bytes": 860
+  },
+  {
+    "category": "alpha",
+    "name": "tool",
+    "path": "assets/alpha/tool.png",
+    "bytes": 29253
+  },
+  {
+    "category": "alpha",
+    "name": "tool",
+    "path": "assets/alpha/tool.svg",
+    "bytes": 744
+  },
+  {
+    "category": "alpha",
+    "name": "victimA",
+    "path": "assets/alpha/victimA.png",
+    "bytes": 18047
+  },
+  {
+    "category": "alpha",
+    "name": "victimA",
+    "path": "assets/alpha/victimA.svg",
+    "bytes": 429
+  },
+  {
+    "category": "alpha",
+    "name": "victimB",
+    "path": "assets/alpha/victimB.png",
+    "bytes": 19235
+  },
+  {
+    "category": "alpha",
+    "name": "victimB",
+    "path": "assets/alpha/victimB.svg",
+    "bytes": 359
+  },
+  {
+    "category": "alpha",
+    "name": "victimC",
+    "path": "assets/alpha/victimC.png",
+    "bytes": 18573
+  },
+  {
+    "category": "alpha",
+    "name": "victimC",
+    "path": "assets/alpha/victimC.svg",
+    "bytes": 403
+  },
+  {
+    "category": "documents",
+    "name": "diagnostic-strip",
+    "path": "assets/documents/diagnostic-strip.png",
+    "bytes": 178216
+  },
+  {
+    "category": "documents",
+    "name": "diagnostic-strip",
+    "path": "assets/documents/diagnostic-strip.svg",
+    "bytes": 73514
+  },
+  {
+    "category": "documents",
+    "name": "fold-mark",
+    "path": "assets/documents/fold-mark.png",
+    "bytes": 156031
+  },
+  {
+    "category": "documents",
+    "name": "fold-mark",
+    "path": "assets/documents/fold-mark.svg",
+    "bytes": 31104
+  },
+  {
+    "category": "documents",
+    "name": "gate-diagram",
+    "path": "assets/documents/gate-diagram.png",
+    "bytes": 150168
+  },
+  {
+    "category": "documents",
+    "name": "gate-diagram",
+    "path": "assets/documents/gate-diagram.svg",
+    "bytes": 47246
+  },
+  {
+    "category": "documents",
+    "name": "gate-token",
+    "path": "assets/documents/gate-token.png",
+    "bytes": 162040
+  },
+  {
+    "category": "documents",
+    "name": "gate-token",
+    "path": "assets/documents/gate-token.svg",
+    "bytes": 54087
+  },
+  {
+    "category": "documents",
+    "name": "manual-A",
+    "path": "assets/documents/manual-A.png",
+    "bytes": 106825
+  },
+  {
+    "category": "documents",
+    "name": "manual-A",
+    "path": "assets/documents/manual-A.svg",
+    "bytes": 34532
+  },
+  {
+    "category": "documents",
+    "name": "manual-B",
+    "path": "assets/documents/manual-B.png",
+    "bytes": 83874
+  },
+  {
+    "category": "documents",
+    "name": "manual-B",
+    "path": "assets/documents/manual-B.svg",
+    "bytes": 34533
+  },
+  {
+    "category": "documents",
+    "name": "manual-folded",
+    "path": "assets/documents/manual-folded.png",
+    "bytes": 180525
+  },
+  {
+    "category": "documents",
+    "name": "manual-folded",
+    "path": "assets/documents/manual-folded.svg",
+    "bytes": 45186
+  },
+  {
+    "category": "documents",
+    "name": "manual-joined",
+    "path": "assets/documents/manual-joined.png",
+    "bytes": 170174
+  },
+  {
+    "category": "documents",
+    "name": "manual-joined",
+    "path": "assets/documents/manual-joined.svg",
+    "bytes": 34319
+  },
+  {
+    "category": "documents",
+    "name": "modified-ledger",
+    "path": "assets/documents/modified-ledger.png",
+    "bytes": 168588
+  },
+  {
+    "category": "documents",
+    "name": "modified-ledger",
+    "path": "assets/documents/modified-ledger.svg",
+    "bytes": 50901
+  },
+  {
+    "category": "documents",
+    "name": "original-ledger",
+    "path": "assets/documents/original-ledger.png",
+    "bytes": 192279
+  },
+  {
+    "category": "documents",
+    "name": "original-ledger",
+    "path": "assets/documents/original-ledger.svg",
+    "bytes": 88633
+  },
+  {
+    "category": "documents",
+    "name": "transfer-record",
+    "path": "assets/documents/transfer-record.png",
+    "bytes": 171615
+  },
+  {
+    "category": "documents",
+    "name": "transfer-record",
+    "path": "assets/documents/transfer-record.svg",
+    "bytes": 68043
+  },
+  {
+    "category": "documents",
+    "name": "wave-left",
+    "path": "assets/documents/wave-left.png",
+    "bytes": 156578
+  },
+  {
+    "category": "documents",
+    "name": "wave-left",
+    "path": "assets/documents/wave-left.svg",
+    "bytes": 42621
+  },
+  {
+    "category": "documents",
+    "name": "wave-right",
+    "path": "assets/documents/wave-right.png",
+    "bytes": 157196
+  },
+  {
+    "category": "documents",
+    "name": "wave-right",
+    "path": "assets/documents/wave-right.svg",
+    "bytes": 43263
+  },
+  {
+    "category": "masks",
+    "name": "S01-cluster",
+    "path": "assets/masks/S01-cluster.png",
+    "bytes": 9351
+  },
+  {
+    "category": "masks",
+    "name": "S01-cluster",
+    "path": "assets/masks/S01-cluster.svg",
+    "bytes": 185
+  },
+  {
+    "category": "masks",
+    "name": "S01-frame",
+    "path": "assets/masks/S01-frame.png",
+    "bytes": 9938
+  },
+  {
+    "category": "masks",
+    "name": "S01-frame",
+    "path": "assets/masks/S01-frame.svg",
+    "bytes": 164
+  },
+  {
+    "category": "masks",
+    "name": "S01-media",
+    "path": "assets/masks/S01-media.png",
+    "bytes": 8907
+  },
+  {
+    "category": "masks",
+    "name": "S01-media",
+    "path": "assets/masks/S01-media.svg",
+    "bytes": 231
+  },
+  {
+    "category": "masks",
+    "name": "S01-mirror",
+    "path": "assets/masks/S01-mirror.png",
+    "bytes": 8187
+  },
+  {
+    "category": "masks",
+    "name": "S01-mirror",
+    "path": "assets/masks/S01-mirror.svg",
+    "bytes": 231
+  },
+  {
+    "category": "masks",
+    "name": "S01-roofView",
+    "path": "assets/masks/S01-roofView.png",
+    "bytes": 7514
+  },
+  {
+    "category": "masks",
+    "name": "S01-roofView",
+    "path": "assets/masks/S01-roofView.svg",
+    "bytes": 147
+  },
+  {
+    "category": "masks",
+    "name": "S01-usb",
+    "path": "assets/masks/S01-usb.png",
+    "bytes": 6295
+  },
+  {
+    "category": "masks",
+    "name": "S01-usb",
+    "path": "assets/masks/S01-usb.svg",
+    "bytes": 142
+  },
+  {
+    "category": "masks",
+    "name": "S01-wiper",
+    "path": "assets/masks/S01-wiper.png",
+    "bytes": 7150
+  },
+  {
+    "category": "masks",
+    "name": "S01-wiper",
+    "path": "assets/masks/S01-wiper.svg",
+    "bytes": 169
+  },
+  {
+    "category": "masks",
+    "name": "S02-climate",
+    "path": "assets/masks/S02-climate.png",
+    "bytes": 9342
+  },
+  {
+    "category": "masks",
+    "name": "S02-climate",
+    "path": "assets/masks/S02-climate.svg",
+    "bytes": 225
+  },
+  {
+    "category": "masks",
+    "name": "S02-door",
+    "path": "assets/masks/S02-door.png",
+    "bytes": 8188
+  },
+  {
+    "category": "masks",
+    "name": "S02-door",
+    "path": "assets/masks/S02-door.svg",
+    "bytes": 166
+  },
+  {
+    "category": "masks",
+    "name": "S02-glove",
+    "path": "assets/masks/S02-glove.png",
+    "bytes": 10134
+  },
+  {
+    "category": "masks",
+    "name": "S02-glove",
+    "path": "assets/masks/S02-glove.svg",
+    "bytes": 172
+  },
+  {
+    "category": "masks",
+    "name": "S02-usb",
+    "path": "assets/masks/S02-usb.png",
+    "bytes": 6646
+  },
+  {
+    "category": "masks",
+    "name": "S02-usb",
+    "path": "assets/masks/S02-usb.svg",
+    "bytes": 153
+  },
+  {
+    "category": "masks",
+    "name": "S02-visor",
+    "path": "assets/masks/S02-visor.png",
+    "bytes": 9123
+  },
+  {
+    "category": "masks",
+    "name": "S02-visor",
+    "path": "assets/masks/S02-visor.svg",
+    "bytes": 169
+  },
+  {
+    "category": "masks",
+    "name": "S03-rearGlass",
+    "path": "assets/masks/S03-rearGlass.png",
+    "bytes": 9157
+  },
+  {
+    "category": "masks",
+    "name": "S03-rearGlass",
+    "path": "assets/masks/S03-rearGlass.svg",
+    "bytes": 197
+  },
+  {
+    "category": "masks",
+    "name": "S03-underSeat",
+    "path": "assets/masks/S03-underSeat.png",
+    "bytes": 9740
+  },
+  {
+    "category": "masks",
+    "name": "S03-underSeat",
+    "path": "assets/masks/S03-underSeat.svg",
+    "bytes": 153
+  },
+  {
+    "category": "masks",
+    "name": "S04-audio",
+    "path": "assets/masks/S04-audio.png",
+    "bytes": 9259
+  },
+  {
+    "category": "masks",
+    "name": "S04-audio",
+    "path": "assets/masks/S04-audio.svg",
+    "bytes": 231
+  },
+  {
+    "category": "masks",
+    "name": "S04-mirror",
+    "path": "assets/masks/S04-mirror.png",
+    "bytes": 11455
+  },
+  {
+    "category": "masks",
+    "name": "S04-mirror",
+    "path": "assets/masks/S04-mirror.svg",
+    "bytes": 231
+  },
+  {
+    "category": "masks",
+    "name": "S05-gap",
+    "path": "assets/masks/S05-gap.png",
+    "bytes": 12717
+  },
+  {
+    "category": "masks",
+    "name": "S05-gap",
+    "path": "assets/masks/S05-gap.svg",
+    "bytes": 163
+  },
+  {
+    "category": "masks",
+    "name": "S05-seat-forward",
+    "path": "assets/masks/S05-seat-forward.png",
+    "bytes": 8434
+  },
+  {
+    "category": "masks",
+    "name": "S05-seat-forward",
+    "path": "assets/masks/S05-seat-forward.svg",
+    "bytes": 193
+  },
+  {
+    "category": "masks",
+    "name": "S05-seat",
+    "path": "assets/masks/S05-seat.png",
+    "bytes": 8928
+  },
+  {
+    "category": "masks",
+    "name": "S05-seat",
+    "path": "assets/masks/S05-seat.svg",
+    "bytes": 201
+  },
+  {
+    "category": "masks",
+    "name": "S06-cover",
+    "path": "assets/masks/S06-cover.png",
+    "bytes": 7894
+  },
+  {
+    "category": "masks",
+    "name": "S06-cover",
+    "path": "assets/masks/S06-cover.svg",
+    "bytes": 225
+  },
+  {
+    "category": "masks",
+    "name": "S06-roof",
+    "path": "assets/masks/S06-roof.png",
+    "bytes": 17903
+  },
+  {
+    "category": "masks",
+    "name": "S06-roof",
+    "path": "assets/masks/S06-roof.svg",
+    "bytes": 238
+  },
+  {
+    "category": "masks",
+    "name": "S07-filmDesk",
+    "path": "assets/masks/S07-filmDesk.png",
+    "bytes": 7458
+  },
+  {
+    "category": "masks",
+    "name": "S07-filmDesk",
+    "path": "assets/masks/S07-filmDesk.svg",
+    "bytes": 154
+  },
+  {
+    "category": "masks",
+    "name": "S07-surveillance",
+    "path": "assets/masks/S07-surveillance.png",
+    "bytes": 8574
+  },
+  {
+    "category": "masks",
+    "name": "S07-surveillance",
+    "path": "assets/masks/S07-surveillance.svg",
+    "bytes": 147
+  },
+  {
+    "category": "masks",
+    "name": "S07-surveillanceNote",
+    "path": "assets/masks/S07-surveillanceNote.png",
+    "bytes": 7372
+  },
+  {
+    "category": "masks",
+    "name": "S07-surveillanceNote",
+    "path": "assets/masks/S07-surveillanceNote.svg",
+    "bytes": 153
+  },
+  {
+    "category": "masks",
+    "name": "S08-filmReader",
+    "path": "assets/masks/S08-filmReader.png",
+    "bytes": 8439
+  },
+  {
+    "category": "masks",
+    "name": "S08-filmReader",
+    "path": "assets/masks/S08-filmReader.svg",
+    "bytes": 151
+  },
+  {
+    "category": "masks",
+    "name": "S08-ledgerBook",
+    "path": "assets/masks/S08-ledgerBook.png",
+    "bytes": 8697
+  },
+  {
+    "category": "masks",
+    "name": "S08-ledgerBook",
+    "path": "assets/masks/S08-ledgerBook.svg",
+    "bytes": 157
+  },
+  {
+    "category": "masks",
+    "name": "S08-ledgerTerminal",
+    "path": "assets/masks/S08-ledgerTerminal.png",
+    "bytes": 9025
+  },
+  {
+    "category": "masks",
+    "name": "S08-ledgerTerminal",
+    "path": "assets/masks/S08-ledgerTerminal.svg",
+    "bytes": 155
+  },
+  {
+    "category": "masks",
+    "name": "S09-archive",
+    "path": "assets/masks/S09-archive.png",
+    "bytes": 6815
+  },
+  {
+    "category": "masks",
+    "name": "S09-archive",
+    "path": "assets/masks/S09-archive.svg",
+    "bytes": 146
+  },
+  {
+    "category": "masks",
+    "name": "S09-archiveNote",
+    "path": "assets/masks/S09-archiveNote.png",
+    "bytes": 8091
+  },
+  {
+    "category": "masks",
+    "name": "S09-archiveNote",
+    "path": "assets/masks/S09-archiveNote.svg",
+    "bytes": 157
+  },
+  {
+    "category": "masks",
+    "name": "S09-tapes",
+    "path": "assets/masks/S09-tapes.png",
+    "bytes": 6383
+  },
+  {
+    "category": "masks",
+    "name": "S09-tapes",
+    "path": "assets/masks/S09-tapes.svg",
+    "bytes": 142
+  },
+  {
+    "category": "masks",
+    "name": "S10-photoBoard",
+    "path": "assets/masks/S10-photoBoard.png",
+    "bytes": 7017
+  },
+  {
+    "category": "masks",
+    "name": "S10-photoBoard",
+    "path": "assets/masks/S10-photoBoard.svg",
+    "bytes": 141
+  },
+  {
+    "category": "masks",
+    "name": "S10-recoveryBox",
+    "path": "assets/masks/S10-recoveryBox.png",
+    "bytes": 7791
+  },
+  {
+    "category": "masks",
+    "name": "S10-recoveryBox",
+    "path": "assets/masks/S10-recoveryBox.svg",
+    "bytes": 148
+  },
+  {
+    "category": "masks",
+    "name": "S10-transmission",
+    "path": "assets/masks/S10-transmission.png",
+    "bytes": 6905
+  },
+  {
+    "category": "masks",
+    "name": "S10-transmission",
+    "path": "assets/masks/S10-transmission.svg",
+    "bytes": 142
+  },
+  {
+    "category": "masks",
+    "name": "S11-latches",
+    "path": "assets/masks/S11-latches.png",
+    "bytes": 6427
+  },
+  {
+    "category": "masks",
+    "name": "S11-latches",
+    "path": "assets/masks/S11-latches.svg",
+    "bytes": 142
+  },
+  {
+    "category": "masks",
+    "name": "S11-returnNote",
+    "path": "assets/masks/S11-returnNote.png",
+    "bytes": 6313
+  },
+  {
+    "category": "masks",
+    "name": "S11-returnNote",
+    "path": "assets/masks/S11-returnNote.svg",
+    "bytes": 142
+  },
+  {
+    "category": "masks",
+    "name": "S11-returnTerminal",
+    "path": "assets/masks/S11-returnTerminal.png",
+    "bytes": 8049
+  },
+  {
+    "category": "masks",
+    "name": "S11-returnTerminal",
+    "path": "assets/masks/S11-returnTerminal.svg",
+    "bytes": 155
+  },
+  {
+    "category": "masks",
+    "name": "S12-circuitSlots",
+    "path": "assets/masks/S12-circuitSlots.png",
+    "bytes": 8014
+  },
+  {
+    "category": "masks",
+    "name": "S12-circuitSlots",
+    "path": "assets/masks/S12-circuitSlots.svg",
+    "bytes": 222
+  },
+  {
+    "category": "masks",
+    "name": "S12-circuitTerminal",
+    "path": "assets/masks/S12-circuitTerminal.png",
+    "bytes": 8227
+  },
+  {
+    "category": "masks",
+    "name": "S12-circuitTerminal",
+    "path": "assets/masks/S12-circuitTerminal.svg",
+    "bytes": 172
+  },
+  {
+    "category": "masks",
+    "name": "S13-gateShutter",
+    "path": "assets/masks/S13-gateShutter.png",
+    "bytes": 7142
+  },
+  {
+    "category": "masks",
+    "name": "S13-gateShutter",
+    "path": "assets/masks/S13-gateShutter.svg",
+    "bytes": 141
+  },
+  {
+    "category": "masks",
+    "name": "S13-gateSlot",
+    "path": "assets/masks/S13-gateSlot.png",
+    "bytes": 6354
+  },
+  {
+    "category": "masks",
+    "name": "S13-gateSlot",
+    "path": "assets/masks/S13-gateSlot.svg",
+    "bytes": 144
+  },
+  {
+    "category": "masks",
+    "name": "S13-gateTerminal",
+    "path": "assets/masks/S13-gateTerminal.png",
+    "bytes": 9538
+  },
+  {
+    "category": "masks",
+    "name": "S13-gateTerminal",
+    "path": "assets/masks/S13-gateTerminal.svg",
+    "bytes": 155
+  },
+  {
+    "category": "masks",
+    "name": "S14-dashboard",
+    "path": "assets/masks/S14-dashboard.png",
+    "bytes": 6663
+  },
+  {
+    "category": "masks",
+    "name": "S14-dashboard",
+    "path": "assets/masks/S14-dashboard.svg",
+    "bytes": 142
+  },
+  {
+    "category": "masks",
+    "name": "S14-keySlot",
+    "path": "assets/masks/S14-keySlot.png",
+    "bytes": 6302
+  },
+  {
+    "category": "masks",
+    "name": "S14-keySlot",
+    "path": "assets/masks/S14-keySlot.svg",
+    "bytes": 142
+  },
+  {
+    "category": "masks",
+    "name": "S14-startButton",
+    "path": "assets/masks/S14-startButton.png",
+    "bytes": 7453
+  },
+  {
+    "category": "masks",
+    "name": "S14-startButton",
+    "path": "assets/masks/S14-startButton.svg",
+    "bytes": 184
+  },
+  {
+    "category": "masks",
+    "name": "rear-belt",
+    "path": "assets/masks/rear-belt.png",
+    "bytes": 11365
+  },
+  {
+    "category": "masks",
+    "name": "rear-belt",
+    "path": "assets/masks/rear-belt.svg",
+    "bytes": 211
+  },
+  {
+    "category": "masks",
+    "name": "rear-window",
+    "path": "assets/masks/rear-window.png",
+    "bytes": 9157
+  },
+  {
+    "category": "masks",
+    "name": "rear-window",
+    "path": "assets/masks/rear-window.svg",
+    "bytes": 197
+  },
+  {
+    "category": "masks",
+    "name": "windshield",
+    "path": "assets/masks/windshield.png",
+    "bytes": 13127
+  },
+  {
+    "category": "masks",
+    "name": "windshield",
+    "path": "assets/masks/windshield.svg",
+    "bytes": 178
+  },
+  {
+    "category": "states",
+    "name": "roof-socket-open",
+    "path": "assets/states/roof-socket-open.png",
+    "bytes": 9951
+  },
+  {
+    "category": "states",
+    "name": "roof-socket-open",
+    "path": "assets/states/roof-socket-open.svg",
+    "bytes": 533
+  },
+  {
+    "category": "states",
+    "name": "visor-down",
+    "path": "assets/states/visor-down.png",
+    "bytes": 9853
+  },
+  {
+    "category": "states",
+    "name": "visor-down",
+    "path": "assets/states/visor-down.svg",
+    "bytes": 412
+  },
+  {
+    "category": "audio",
+    "name": "archive-L",
+    "path": "assets/audio/archive-L.wav",
+    "bytes": 222342
+  },
+  {
+    "category": "audio",
+    "name": "archive-R",
+    "path": "assets/audio/archive-R.wav",
+    "bytes": 291138
+  },
+  {
+    "category": "audio",
+    "name": "archive-final",
+    "path": "assets/audio/archive-final.wav",
+    "bytes": 114384
+  },
+  {
+    "category": "audio",
+    "name": "beep",
+    "path": "assets/audio/beep.wav",
+    "bytes": 7982
+  },
+  {
+    "category": "audio",
+    "name": "cloth",
+    "path": "assets/audio/cloth.wav",
+    "bytes": 17684
+  },
+  {
+    "category": "audio",
+    "name": "collect",
+    "path": "assets/audio/collect.wav",
+    "bytes": 22094
+  },
+  {
+    "category": "audio",
+    "name": "connect",
+    "path": "assets/audio/connect.wav",
+    "bytes": 17684
+  },
+  {
+    "category": "audio",
+    "name": "latch",
+    "path": "assets/audio/latch.wav",
+    "bytes": 8422
+  },
+  {
+    "category": "audio",
+    "name": "motor",
+    "path": "assets/audio/motor.wav",
+    "bytes": 44144
+  },
+  {
+    "category": "audio",
+    "name": "motorFail",
+    "path": "assets/audio/motorFail.wav",
+    "bytes": 15478
+  },
+  {
+    "category": "audio",
+    "name": "paper",
+    "path": "assets/audio/paper.wav",
+    "bytes": 18566
+  },
+  {
+    "category": "audio",
+    "name": "rain-loop",
+    "path": "assets/audio/rain-loop.wav",
+    "bytes": 882044
+  },
+  {
+    "category": "audio",
+    "name": "stereo-recording",
+    "path": "assets/audio/stereo-recording.wav",
+    "bytes": 546000
+  },
+  {
+    "category": "audio",
+    "name": "unlock",
+    "path": "assets/audio/unlock.wav",
+    "bytes": 28708
+  },
+  {
+    "category": "audio",
+    "name": "wiper",
+    "path": "assets/audio/wiper.wav",
+    "bytes": 37528
+  },
+  {
+    "category": "audio",
+    "name": "wrong",
+    "path": "assets/audio/wrong.wav",
+    "bytes": 11510
+  }
+]

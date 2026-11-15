@@ -1,0 +1,118 @@
+{
+  "tool": "built-in image_gen",
+  "artDirection": "Hand-painted cinematic realism. Graphite blue EV / cognac leather / champagne brass / petrol teal rain / amber lamps. Readable midtones. No UI text or answers baked into generated art. Transparent inventory sprites retain original alpha; deterministic SVG contour clips and white masks supplied separately.",
+  "assets": [
+    {
+      "id": "S07",
+      "path": "generated_images/exec-673cf7e3-72fc-42d9-90c5-8aa44be5bace.png",
+      "prompt": "Use case: stylized-concept. Production background plate for premium Korean mystery point-and-click game Residual Power. Reference image1 is locked art direction: refined hand-painted cinematic realism, clean detailed shapes, cool petrol-teal rainy night, warm amber practical lamps, satin champagne metal, readable lifted midtones, restrained noir with inviting visibility. Wide 16:9 composition 1672x941, straight level camera, polished shipped adventure-game quality. No characters, hands, logos, labels, text, symbols, numbers, HUD, arrows or borders. Screens blank charcoal for exact code-rendered clues. Do not draw any UI. A compact surveillance room inside the referenced industrial car-storage facility. Medium-wide frontal room view: left desk with three broad glass CCTV monitors arranged above it at x18–58% y25–60%, blank muted charcoal screens with subtle scanline glow; center desk papers and film viewer at x48–65% y65–80%; right rain-streaked industrial window overlooking caged cars at x75–95% y20–65%; a small amber desk lamp, worn dark teal painted cabinets, brass handles, refined tactile materials, cinematic depth. Surfaces uncluttered, interactable monitor, film viewer and exit door right have clear silhouettes.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "S08",
+      "path": "generated_images/exec-c6f59105-87f1-42f7-b63b-1dd3ca66eec9.png",
+      "prompt": "Use case: stylized-concept. Production background plate for premium Korean mystery point-and-click game Residual Power. Reference image1 is locked art direction: refined hand-painted cinematic realism, clean detailed shapes, cool petrol-teal rainy night, warm amber practical lamps, satin champagne metal, readable lifted midtones, restrained noir with inviting visibility. Wide 16:9 composition 1672x941, straight level camera, polished shipped adventure-game quality. No characters, hands, logos, labels, text, symbols, numbers, HUD, arrows or borders. Screens blank charcoal for exact code-rendered clues. Do not draw any UI. A closer, almost frontal diagnostic desk in the same surveillance room. Dominant framed blank diagnostic monitor centered x30–70% y20–60%; at left a mechanical film-reel reader with two empty film trays x8–27% y50–76%; at right ledger binder and desk lamp x75–94% y50–80%; amber light across warm graphite worktop, teal enameled steel drawers, rain window very back. Clear uncluttered puzzle inspection areas, broad blank screen.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "S09",
+      "path": "generated_images/exec-7d2d2ebe-0f88-4d10-a2a1-40d1fe38e2b6.png",
+      "prompt": "Use case: stylized-concept. Production background plate for premium Korean mystery point-and-click game Residual Power. Reference image1 is locked art direction: refined hand-painted cinematic realism, clean detailed shapes, cool petrol-teal rainy night, warm amber practical lamps, satin champagne metal, readable lifted midtones, restrained noir with inviting visibility. Wide 16:9 composition 1672x941, straight level camera, polished shipped adventure-game quality. No characters, hands, logos, labels, text, symbols, numbers, HUD, arrows or borders. Screens blank charcoal for exact code-rendered clues. Do not draw any UI. A voice archive room in the same industrial facility, frontal wide environmental view. Left pair of analog reel-to-reel tape machines with fine brass controls x10–35% y32–70%, center generous blank glass waveform screen x39–68% y26–58%, beneath it two empty recording-card slots, right shelves of plain tape cases and an open dossier on a desk x76–95% y48–78%. Warm amber pooled light with cool teal rainy window, tactile premium painted textures, calm mysterious investigation.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "S10",
+      "path": "generated_images/exec-f950ba47-d476-47a0-81dc-a3c08eab9bae.png",
+      "prompt": "Facility dispatch and transmission room. Frontal wide view. Left a pinboard with three empty brass photo clips and paperwork x8–34% y20–65%, central big blank glass transmission terminal x39–68% y30–65%, right a closed rectangular recovery locker x76–94% y48–78% with distinctive recessed handle; dark teal cabinets, amber desk lamp above locker, rain window at back. Quiet premium atmospheric mystery game scene, uncluttered interactive shapes.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "S12",
+      "path": "generated_images/exec-ebaf948a-4525-426a-aa28-5871e49a8662.png",
+      "prompt": "Frontal close view of industrial vehicle-frame diagnostic station beside caged car warehouse. Large blank dark glass screen x25–73% y20–65% framed in champagne metal; two clearly separate empty circuit card recesses beneath screen x35–62% y70–83%; on left thick teal conduit, on right lever-shaped inert mechanical latch assembly and lamp, cognac tool mat foreground. Not a sci-fi hologram. Physical tactile painted realism, space for precise code-rendered circuit clues.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "S13",
+      "path": "generated_images/exec-842fab98-2157-4c78-b382-02db1fd3cad4.png",
+      "prompt": "Frontal wide exit authorization station in same teal and amber industrial warehouse. Huge closed ribbed steel exit shutter in background left x5–46% y18–80%; foreground right a broad brass-edged blank dark glass route-map terminal x50–89% y25–68% on teal desk with token slot below. Warm caged amber lamp on right, rainy blue dawn hinted beneath door. Clear silhouettes, premium mystery game painting, no readable symbols.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "S11",
+      "path": "generated_images/exec-9aed9829-7b24-4e22-94d4-0727ff58682a.png",
+      "prompt": "Same car as reference1, player has returned to driver seat. SAME frontal interior camera and recognizably identical dash, steering wheel and central blank screen, cognac leather. Outside the rain-streaked windshield now a much closer industrial transport frame holds the car: three chunky small amber-metal mechanical latch housings placed evenly above windshield midline at x33%,50%,67% y32%, connected by slender conduit, middle one visibly has a continuous connection. Terminal area clear, readable. Keep interior exact continuity.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "S14",
+      "path": "generated_images/exec-4fb73cad-2cb3-4cf5-af9c-3f3dc3db9a9a.png",
+      "prompt": "Close-medium frontal view of the SAME premium cognac leather car dashboard and steering wheel as reference1. Center generous blank rectangular glass screen x46–75% y32–67%. Below it a distinct recessed smartkey slot x52% y76% and a round inert START-like button with no writing x69% y77%. Through windshield, industrial shutter gate with dawn light, rainy teal and warm amber lighting, no people, no glyphs.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "FINAL",
+      "path": "generated_images/exec-01e65546-22d6-4aef-b861-01ae190f0c61.png",
+      "prompt": "Cinematic exterior ending establishing shot. Same graphite blue premium electric sedan with cognac interior seen from three-quarter rear, moving visually toward open warehouse exit and peaceful pale turquoise dawn, warm amber industrial lamps receding, wet concrete road reflecting sunrise. Wide 16:9 premium hand-painted realistic adventure-game illustration, hopeful release after mystery, car at x55% y65%, broad clear composition, no lettering, no people. Reference2 gives facility continuity.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "smartKey",
+      "path": "generated_images/exec-04fc3595-57c2-46a0-971f-3fce40b1159c.png",
+      "prompt": "An elegant graphite blue electric-car smartkey fob, compact vertical rounded rectangle with cognac leather side insert and satin brass trim; three subtle embossed button shapes without lettering, small metal ring at top. Three-quarter front view, tactile metal and leather, no brand.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "frameToken",
+      "path": "generated_images/exec-2f18b02d-f678-46fd-945c-9a438fe9707e.png",
+      "prompt": "A chunky small industrial access token, dark petrol teal rectangular brass-edged card with stepped corner, one triangular mechanical notch at bottom and visible three pin contacts on top. Three-quarter front view, palm-sized, no text, no glowing aura.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "victimA",
+      "path": "generated_images/exec-64390037-f695-4039-a63d-85a4794bd63a.png",
+      "prompt": "A single worn instant photograph with ivory paper border, slightly tilted, fictional East Asian adult woman about 35 with short dark bob, ochre coat, standing in car research workshop. Kind ordinary face, shoulders portrait. Actual photo art only, no readable words; reverse will be drawn in code. No horror, no injury.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "victimB",
+      "path": "generated_images/exec-2a4ee4d8-1a87-4acd-9dc7-26343cfd3012.png",
+      "prompt": "East Asian man about 45 with short black hair and light round glasses, charcoal knit jacket, shoulders portrait, standing in car research workshop.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "victimC",
+      "path": "generated_images/exec-20b7094c-10f1-4d29-9265-f907cde4df3b.png",
+      "prompt": "East Asian woman about 28 with long dark hair tied back, teal work jacket and cream shirt, shoulders portrait in car research workshop.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "film-05",
+      "path": "generated_images/exec-227de171-f964-4ab4-abc7-1497dbe11247.png",
+      "prompt": "The single transport frame is COMPLETELY EMPTY: clearly visible empty wet floor through its bars, gate standing open, absolutely no car in this cage. The empty cage must dominate 80 percent of picture, no nearby car behind it.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    },
+    {
+      "id": "film-04",
+      "path": "generated_images/exec-24105ad9-97cb-4a43-af05-beaa4d0a5b64.png",
+      "prompt": "The single transport cage contains the reference graphite blue electric sedan with cognac seats visible through glass, freshly brought in, wet tires, cage gate partly closed. Car dominates within cage. Same consistent vehicle design.",
+      "method": "built-in image_gen",
+      "reference": "S01 vehicle identity / END facility art direction"
+    }
+  ]
+}

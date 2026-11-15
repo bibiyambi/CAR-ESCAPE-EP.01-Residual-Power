@@ -1,0 +1,38 @@
+# Build outputs and workstation configuration
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.gradle-local.properties
+.idea/
+*.iml
+.DS_Store
+*.log
+*.hprof
+# Private Pleos SDK material: never publish or package credentials
+.local/
+private/
+sdk/
+*.aar
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+signing.properties
+secrets.properties
+credentials.properties
+*.env
+.env*
+*Pleos*SDK*정보*
+*Pleos*SDK*정보*
+# Local build artifacts
+*.apk
+*.aab
+*.apks
+captures/
+__pycache__/

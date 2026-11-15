@@ -1,0 +1,189 @@
+{
+  "version": 2,
+  "browser": "Chrome / managed preview",
+  "fullRoute": {
+    "acts": 3,
+    "completedPuzzles": "15/15",
+    "ending": "탈출 성공 · 명단 수신 확인 · 이번에는 기억해",
+    "method": "UI actions only; no state injection",
+    "knownAnswerFunctionalPass": true,
+    "userDurationValidated": false
+  },
+  "inputChecks": [
+    "P01 OFF→ACTIVE stable hold and separate frame observation",
+    "P05 low fan plus mirror alignment",
+    "P08 input then manual film order",
+    "P09 low/mid layers then row matching",
+    "P10 original slots and audio/subtitles",
+    "P11 photo/ledger matching and attachment",
+    "P12 fresh sequence after token",
+    "P13 common circuit contact",
+    "P14 wrong route rejected then route C",
+    "P15 early ignition blocked with message inside modal, key/token confirmation then succeeds",
+    "OFF attempt without vehicle rejected with reasons, ON retained"
+  ],
+  "profiles": [
+    {
+      "id": "s17-landscape",
+      "windowDp": [
+        1700,
+        1184
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "s17-portrait",
+      "windowDp": [
+        840,
+        1184
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "s146-landscape",
+      "windowDp": [
+        1360,
+        948
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "s146-portrait",
+      "windowDp": [
+        672,
+        948
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "s129-landscape",
+      "windowDp": [
+        1274,
+        855
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "s129-portrait",
+      "windowDp": [
+        628,
+        855
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "w-landscape",
+      "windowDp": [
+        1640,
+        810
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "w-portrait",
+      "windowDp": [
+        800,
+        810
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "we-landscape",
+      "windowDp": [
+        1640,
+        1400
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "we-portrait",
+      "windowDp": [
+        800,
+        1400
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "wf-landscape",
+      "windowDp": [
+        1256,
+        800
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    },
+    {
+      "id": "wf-portrait",
+      "windowDp": [
+        648,
+        800
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true,
+      "aspectMaintained": true
+    }
+  ],
+  "largeText": {
+    "scale": 1.5,
+    "window": [
+      628,
+      855
+    ],
+    "settingsHorizontalOverflow": 0,
+    "closeInside": true,
+    "puzzleInputInspected": true,
+    "inputHorizontalOverflow": 0,
+    "wiperLabelNoWrap": true
+  },
+  "limits": [
+    "Real vehicle / native SDK not tested",
+    "No measured end-user completion time",
+    "Only desktop Chrome used for visual QA"
+  ],
+  "assetCatalogInspected": true
+}

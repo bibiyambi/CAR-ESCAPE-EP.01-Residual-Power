@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "checks": {
+    "scenes": true,
+    "all_scene_backgrounds": true,
+    "all_item_assets": true,
+    "aspect_1672_941": true,
+    "true_alpha_11": true,
+    "all_cutouts_have_clip": true,
+    "svg_parse": true,
+    "stereo_recording": true,
+    "all_voices": true,
+    "standalone_has_no_remote_runtime": true,
+    "standalone_has_no_placeholders": true,
+    "12_profiles": true,
+    "screen_controls_OFF_hidden": true
+  },
+  "counts": {
+    "backgrounds": 21,
+    "items": 11,
+    "cutouts": 11,
+    "alpha": 22,
+    "documents": 26,
+    "masks": 94,
+    "states": 4,
+    "audio": 22
+  },
+  "allPassed": true,
+  "limits": [
+    "Native Pleos binding and real-vehicle checks are not implemented",
+    "45–60 minute duration is a design target, not measured user playtime"
+  ]
+}

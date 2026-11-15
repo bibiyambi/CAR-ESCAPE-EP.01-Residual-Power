@@ -1,0 +1,170 @@
+{
+  "version": "2.1",
+  "browser": "Chrome / managed preview",
+  "method": "UI actions and DOM geometry only; no application-state injection",
+  "checks": {
+    "idlePanelHasNoDeadControls": true,
+    "onlyRelevantInputShown": true,
+    "returnToClueButtonWorks": true,
+    "sceneChangeDetachesPreviousTerminal": true,
+    "menuPauseAndFreshInputWork": true,
+    "fanInputLeadsToMirrorPuzzle": true,
+    "savedCluesRestoredAfterReload": true,
+    "unsupportedOFFRemainsON": true,
+    "newGameStartsCleanly": true
+  },
+  "profiles": [
+    {
+      "id": "s17-landscape",
+      "windowDp": [
+        1700,
+        1184
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "s17-portrait",
+      "windowDp": [
+        840,
+        1184
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "s146-landscape",
+      "windowDp": [
+        1360,
+        948
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "s146-portrait",
+      "windowDp": [
+        672,
+        948
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "s129-landscape",
+      "windowDp": [
+        1274,
+        855
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "s129-portrait",
+      "windowDp": [
+        628,
+        855
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "w-landscape",
+      "windowDp": [
+        1640,
+        810
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "w-portrait",
+      "windowDp": [
+        800,
+        810
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "we-landscape",
+      "windowDp": [
+        1640,
+        1400
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "we-portrait",
+      "windowDp": [
+        800,
+        1400
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "wf-landscape",
+      "windowDp": [
+        1256,
+        800
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    },
+    {
+      "id": "wf-portrait",
+      "windowDp": [
+        648,
+        800
+      ],
+      "headerOverflow": 0,
+      "footerOverflow": 0,
+      "panelInside": true,
+      "closeInside": true
+    }
+  ],
+  "largeText": {
+    "scale": 1.5,
+    "window": [
+      628,
+      855
+    ],
+    "returnPanelBodyOverflow": 0,
+    "returnPanelFooterOverflow": 0,
+    "panelInside": true
+  },
+  "testScope": [
+    "Targeted v2.1 UI checks plus 17 original rule checks and 11 regressions",
+    "Earlier v2 full 15/15 UI route retained as v2-browser-report.json",
+    "Short pulse/metadata/revocation cases verified using deterministic millisecond rule tests"
+  ],
+  "limits": [
+    "Native SDK and actual vehicle were not tested",
+    "End-user completion time not measured",
+    "The complete 15-puzzle UI route was not replayed for this maintenance update"
+  ]
+}

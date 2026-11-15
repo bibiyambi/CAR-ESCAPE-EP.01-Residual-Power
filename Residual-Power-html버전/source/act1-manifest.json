@@ -1,0 +1,301 @@
+{
+  "title": "잔류 전원",
+  "subtitle": "RESIDUAL POWER",
+  "chapter": "01",
+  "artStyle": "cognac-amber-teal-painted",
+  "scope": "차량 밀실 1막 / 가상 차량 조작 / 퍼즐 7개",
+  "scenes": [
+    {
+      "name": "전면 운전석",
+      "subtitle": "금속 프레임에 고정된 차",
+      "hotspots": [
+        {
+          "id": "wiper",
+          "name": "와이퍼 레버",
+          "path": "M681 622L762 613Q782 611 784 638L779 659L689 674Z"
+        },
+        {
+          "id": "cluster",
+          "name": "계기판과 안전벨트",
+          "path": "M242 554Q262 492 373 482L530 493Q601 513 635 581L626 620L268 620Z"
+        },
+        {
+          "id": "frame",
+          "name": "프레임과 감시 카메라",
+          "path": "M1304 94L1418 94L1475 268L1443 297L1332 181Z"
+        },
+        {
+          "id": "mirror",
+          "name": "룸미러",
+          "path": "M735 128L1035 131Q1065 136 1069 169L1062 205Q1059 233 1023 235L728 230Q701 226 704 190L705 155Q707 134 735 128Z"
+        },
+        {
+          "id": "media",
+          "name": "중앙 디스플레이",
+          "path": "M837 499L1180 499Q1204 500 1208 527L1221 668Q1217 695 1186 698L829 697Q800 697 801 673L803 526Q806 502 837 499Z"
+        },
+        {
+          "id": "usb",
+          "name": "USB 포트",
+          "path": "M984 800H1028V827H984Z"
+        },
+        {
+          "id": "roofView",
+          "name": "천장 조명",
+          "path": "M737 2H1089L1062 79L758 76Z"
+        }
+      ],
+      "id": "S01",
+      "asset": "assets/backgrounds/S01.png"
+    },
+    {
+      "name": "조수석",
+      "subtitle": "잠기지 않은 서랍",
+      "hotspots": [
+        {
+          "id": "glove",
+          "name": "글로브박스",
+          "path": "M697 649L1080 606L1097 652L1084 751L793 804L675 736Z"
+        },
+        {
+          "id": "climate",
+          "name": "공조·오디오 디스플레이",
+          "path": "M284 421L563 416Q581 417 585 441L610 580Q610 601 584 605L293 621Q275 620 275 598L273 445Q272 425 284 421Z"
+        },
+        {
+          "id": "visor",
+          "name": "선바이저",
+          "path": "M787 33L1113 66Q1151 77 1152 112L1110 144L775 95Z"
+        },
+        {
+          "id": "usb",
+          "name": "USB 포트",
+          "path": "M451 711L496 707L499 741L451 746Z"
+        },
+        {
+          "id": "door",
+          "name": "막힌 조수석 문",
+          "path": "M1205 507L1323 530L1372 578L1290 580L1223 554Z"
+        }
+      ],
+      "id": "S02",
+      "asset": "assets/backgrounds/S02.png"
+    },
+    {
+      "name": "뒷좌석",
+      "subtitle": "빈자리에서 울리는 경고",
+      "hotspots": [
+        {
+          "id": "rearGlass",
+          "name": "뒷유리의 흔적",
+          "path": "M356 127Q411 113 570 121L1242 125Q1289 127 1304 166L1304 309L380 316L349 178Z"
+        },
+        {
+          "id": "underSeat",
+          "name": "운전석 아래로",
+          "path": "M1090 840L1336 775L1408 937H1035Z"
+        }
+      ],
+      "id": "S03",
+      "asset": "assets/backgrounds/S03.png"
+    },
+    {
+      "name": "룸미러·오디오",
+      "subtitle": "서로 겹쳐진 두 목소리",
+      "hotspots": [
+        {
+          "id": "mirror",
+          "name": "룸미러 각도",
+          "path": "M392 208L1250 204Q1340 208 1365 262L1380 431Q1360 491 1280 505L383 503Q315 499 298 445L290 292Q303 222 392 208Z"
+        },
+        {
+          "id": "audio",
+          "name": "오디오 밸런스",
+          "path": "M666 608L1177 609Q1202 609 1207 635L1219 789Q1217 813 1191 820L649 817Q620 813 623 787L629 638Q633 612 666 608Z"
+        }
+      ],
+      "id": "S04",
+      "asset": "assets/backgrounds/S04.png"
+    },
+    {
+      "name": "운전석 하단",
+      "subtitle": "레일 끝에 남겨진 물건",
+      "hotspots": [
+        {
+          "id": "seat",
+          "name": "전동시트 스위치",
+          "path": "M189 483L281 461L310 417Q322 395 352 403L370 419L348 492L315 510L189 526L173 514Z"
+        },
+        {
+          "id": "gap",
+          "name": "레일 아래 공간",
+          "path": "M636 569L1083 602L1224 740L775 849L611 733Z"
+        }
+      ],
+      "id": "S05",
+      "asset": "assets/backgrounds/S05.png"
+    },
+    {
+      "name": "천장",
+      "subtitle": "위쪽에 남은 출구",
+      "hotspots": [
+        {
+          "id": "roof",
+          "name": "선루프",
+          "path": "M141 62Q187 45 333 49L1439 54Q1581 67 1568 151L1391 576Q1363 620 1291 619L374 620Q296 616 271 554L84 164Q74 96 141 62Z"
+        },
+        {
+          "id": "cover",
+          "name": "조명 뒤 점검 커버",
+          "path": "M767 744L906 744Q921 748 920 769L912 832Q908 846 890 847L772 846Q755 844 754 827L748 765Q747 746 767 744Z"
+        }
+      ],
+      "id": "S06",
+      "asset": "assets/backgrounds/S06.png"
+    }
+  ],
+  "items": {
+    "photo": {
+      "name": "훼손 사진",
+      "asset": "assets/items/photo.png",
+      "description": "모르는 여자. 그런데 함께 찍힌 차는 이 차와 닮았다. 찢긴 쪽에는 누가 있었을까."
+    },
+    "manualA": {
+      "name": "안내서 조각 A",
+      "asset": "assets/documents/manual-A.svg",
+      "description": "삼각형의 일부와 점선. 다른 절반이 있어야 뜻을 알 수 있다."
+    },
+    "manualB": {
+      "name": "안내서 조각 B",
+      "asset": "assets/documents/manual-B.svg",
+      "description": "끝이 맞아떨어지는 찢어진 종이. 화살표가 중간에서 끊겨 있다."
+    },
+    "card": {
+      "name": "메모리 카드",
+      "asset": "assets/items/card.png",
+      "description": "표면에 작은 파형이 그려져 있다. 이 차의 USB에는 바로 꽂을 수 없다."
+    },
+    "reader": {
+      "name": "카드 리더기",
+      "asset": "assets/items/reader.png",
+      "description": "옆면의 슬롯은 메모리 카드와 같은 크기다. USB 단자가 있다."
+    },
+    "usb": {
+      "name": "카드+리더기",
+      "asset": "assets/items/reader.png",
+      "description": "메모리 카드를 넣은 리더기. 중앙 USB 포트에 사용할 수 있다."
+    },
+    "manualJoined": {
+      "name": "맞춘 안내서",
+      "asset": "assets/documents/manual-joined.svg",
+      "description": "두 조각이 하나가 됐다. 어긋난 선과 점선은 무엇을 뜻할까."
+    },
+    "foldNote": {
+      "name": "접기 표시",
+      "asset": "assets/documents/fold-mark.svg",
+      "description": "왼쪽 부분을 안으로, 아래 부분을 위로. 안내서의 점선과 같은 간격이다."
+    },
+    "manualFolded": {
+      "name": "접은 개방 도면",
+      "asset": "assets/documents/manual-folded.svg",
+      "description": "천장 커버 뒤 삼각 소켓. 반시계 90도 다음 시계 180도. 마지막으로 유리를 민다."
+    },
+    "tool": {
+      "name": "삼각 수동 도구",
+      "asset": "assets/items/tool.png",
+      "description": "닳은 황동 손잡이. 천장 부품의 삼각 기호와 같다."
+    }
+  },
+  "notes": {
+    "frame": [
+      "프레임 04",
+      "차가 금속 운송 프레임 안에 고정돼 있다. 감시 카메라가 이 차를 향한다. 옆문은 열 수 없고 위쪽에만 여유가 있다."
+    ],
+    "occupancy": [
+      "빈 좌석의 무게",
+      "경고는 사람이 아니라 가방의 무게를 감지하고 있었다. 가방에는 누군가 일부러 남긴 물건이 있다."
+    ],
+    "photo": [
+      "훼손된 사진",
+      "사진 속 여자와 차. 낯선 얼굴인데도 손이 먼저 사진을 뒤집으려 했다."
+    ],
+    "record": [
+      "인수 기록",
+      "M-04 / 최종 운행 02:17 / 회수 예정 03:40 / 동승자 인계 훼손 / 상태 보류. 이 시각은 기록이며 카운트다운이 아니다."
+    ],
+    "voices": [
+      "손상된 녹음",
+      "좌우 채널에 서로 다른 목소리가 들어 있다. 오디오 밸런스로 나누어 들을 수 있다."
+    ],
+    "voiceLeft": [
+      "왼쪽 목소리",
+      "“다시 눈을 뜨면, 유리의 흔적을 봐.” 낮게 말하는 여자의 목소리."
+    ],
+    "voiceRight": [
+      "오른쪽 목소리",
+      "“잊어도, 손은 기억할 거야.” 이상하게 익숙한 남자의 목소리."
+    ],
+    "glass": [
+      "거울 속 문장",
+      "“끝까지. 그 아래.” 문장 밑의 그림은 시트 레일이다. 운전석을 앞으로 끝까지 보내고 뒤에서 확인하라는 뜻 같다."
+    ],
+    "tool": [
+      "레일 아래의 도구",
+      "시트 끝까지 이동하자 손이 들어가는 공간이 생겼다. 도구의 삼각 기호와 천장 점검 기호가 같다."
+    ],
+    "fold": [
+      "테두리의 접기 표시",
+      "안내서 왼쪽 1/3을 가운데로, 아래 1/3을 위로 접는다."
+    ],
+    "manual": [
+      "완성된 수동 도면",
+      "삼각 소켓에 도구를 넣고 반시계 90도 → 시계 180도. 도면은 천장 점검 커버의 위치를 가리킨다."
+    ],
+    "roof": [
+      "위쪽의 문",
+      "수동 잠금 장치가 해제됐다. 선루프를 밀어 열면 위로 빠져나갈 수 있다."
+    ]
+  },
+  "canvas": [
+    1672,
+    941
+  ],
+  "sprites": {
+    "bag": {
+      "asset": "assets/items/bag.png",
+      "box": [
+        235,
+        352,
+        500,
+        417
+      ]
+    },
+    "bagMoved": {
+      "asset": "assets/items/bag.png",
+      "box": [
+        718,
+        692,
+        295,
+        246
+      ]
+    },
+    "coat": {
+      "asset": "assets/items/coat.png",
+      "box": [
+        243,
+        397,
+        510,
+        287
+      ]
+    },
+    "tool": {
+      "asset": "assets/items/tool.png",
+      "box": [
+        810,
+        632,
+        178,
+        119
+      ]
+    }
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "title": "잔류 전원",
+  "subtitle": "RESIDUAL POWER",
+  "chapter": "01–03",
+  "artStyle": "cognac-amber-teal-painted",
+  "scope": "3막 통합 / 퍼즐 15개 / 화면 조작 보조 ON 기본 / 읽기 전용 차량 어댑터 계약",
+  "scenes": [
+    {
+      "name": "전면 운전석",
+      "subtitle": "금속 프레임에 고정된 차",
+      "hotspots": [
+        {
+          "id": "wiper",
+          "name": "와이퍼 흔적 조사",
+          "path": "M681 622L762 613Q782 611 784 638L779 659L689 674Z"
+        },
+        {
+          "id": "cluster",
+          "name": "게임 계기판",
+          "path": "M242 554Q262 492 373 482L530 493Q601 513 635 581L626 620L268 620Z"
+        },
+        {
+          "id": "frame",
+          "name": "프레임과 감시 카메라",
+          "path": "M1304 94L1418 94L1475 268L1443 297L1332 181Z"
+        },
+        {
+          "id": "mirror",
+          "name": "룸미러",
+          "path": "M735 128L1035 131Q1065 136 1069 169L1062 205Q1059 233 1023 235L728 230Q701 226 704 190L705 155Q707 134 735 128Z"
+        },
+        {
+          "id": "media",
+          "name": "중앙 디스플레이",
+          "path": "M837 499L1180 499Q1204 500 1208 527L1221 668Q1217 695 1186 698L829 697Q800 697 801 673L803 526Q806 502 837 499Z"
+        },
+        {
+          "id": "usb",
+          "name": "USB 포트",
+          "path": "M984 800H1028V827H984Z"
+        },
+        {
+          "id": "roofView",
+          "name": "천장 조명",
+          "path": "M737 2H1089L1062 79L758 76Z"
+        }
+      ],
+      "id": "S01",
+      "asset": "assets/backgrounds/S01.png",
+      "chapter": 1
+    },
+    {
+      "name": "조수석",
+      "subtitle": "잠기지 않은 서랍",
+      "hotspots": [
+        {
+          "id": "glove",
+          "name": "글로브박스",
+          "path": "M697 649L1080 606L1097 652L1084 751L793 804L675 736Z"
+        },
+        {
+          "id": "climate",
+          "name": "게임 미디어 화면",
+          "path": "M284 421L563 416Q581 417 585 441L610 580Q610 601 584 605L293 621Q275 620 275 598L273 445Q272 425 284 421Z"
+        },
+        {
+          "id": "visor",
+          "name": "선바이저",
+          "path": "M787 33L1113 66Q1151 77 1152 112L1110 144L775 95Z"
+        },
+        {
+          "id": "usb",
+          "name": "USB 포트",
+          "path": "M451 711L496 707L499 741L451 746Z"
+        },
+        {
+          "id": "door",
+          "name": "막힌 조수석 문",
+          "path": "M1205 507L1323 530L1372 578L1290 580L1223 554Z"
+        }
+      ],
+      "id": "S02",
+      "asset": "assets/backgrounds/S02.png",
+      "chapter": 1
+    },
+    {
+      "name": "뒷좌석",
+      "subtitle": "외투 아래에 숨은 가방",
+      "hotspots": [
+        {
+          "id": "rearGlass",
+          "name": "뒷유리의 흔적",
+          "path": "M356 127Q411 113 570 121L1242 125Q1289 127 1304 166L1304 309L380 316L349 178Z"
+        },
+        {
+          "id": "underSeat",
+          "name": "운전석 아래로",
+          "path": "M1090 840L1336 775L1408 937H1035Z"
+        }
+      ],
+      "id": "S03",
+      "asset": "assets/backgrounds/S03.png",
+      "chapter": 1
+    },
+    {
+      "name": "룸미러·오디오",
+      "subtitle": "서로 겹쳐진 두 목소리",
+      "hotspots": [
+        {
+          "id": "mirror",
+          "name": "룸미러 각도",
+          "path": "M392 208L1250 204Q1340 208 1365 262L1380 431Q1360 491 1280 505L383 503Q315 499 298 445L290 292Q303 222 392 208Z"
+        },
+        {
+          "id": "audio",
+          "name": "오디오 밸런스",
+          "path": "M666 608L1177 609Q1202 609 1207 635L1219 789Q1217 813 1191 820L649 817Q620 813 623 787L629 638Q633 612 666 608Z"
+        }
+      ],
+      "id": "S04",
+      "asset": "assets/backgrounds/S04.png",
+      "chapter": 1
+    },
+    {
+      "name": "운전석 하단",
+      "subtitle": "레일 끝에 남겨진 물건",
+      "hotspots": [
+        {
+          "id": "seat",
+          "name": "게임 시트 스위치",
+          "path": "M189 483L281 461L310 417Q322 395 352 403L370 419L348 492L315 510L189 526L173 514Z"
+        },
+        {
+          "id": "gap",
+          "name": "레일 아래 공간",
+          "path": "M636 569L1083 602L1224 740L775 849L611 733Z"
+        }
+      ],
+      "id": "S05",
+      "asset": "assets/backgrounds/S05.png",
+      "chapter": 1
+    },
+    {
+      "name": "천장",
+      "subtitle": "위쪽에 남은 출구",
+      "hotspots": [
+        {
+          "id": "roof",
+          "name": "선루프",
+          "path": "M141 62Q187 45 333 49L1439 54Q1581 67 1568 151L1391 576Q1363 620 1291 619L374 620Q296 616 271 554L84 164Q74 96 141 62Z"
+        },
+        {
+          "id": "cover",
+          "name": "조명 뒤 점검 커버",
+          "path": "M767 744L906 744Q921 748 920 769L912 832Q908 846 890 847L772 846Q755 844 754 827L748 765Q747 746 767 744Z"
+        }
+      ],
+      "id": "S06",
+      "asset": "assets/backgrounds/S06.png",
+      "chapter": 1
+    },
+    {
+      "id": "S07",
+      "name": "감시실",
+      "subtitle": "누락된 다섯 번째 기록",
+      "chapter": 2,
+      "asset": "assets/backgrounds/S07.png",
+      "hotspots": [
+        {
+          "id": "surveillance",
+          "name": "감시 영상 단말기",
+          "path": "M86 225L959 273V450L83 459Z"
+        },
+        {
+          "id": "filmDesk",
+          "name": "필름 판독기",
+          "path": "M777 475L989 474L1004 585L781 587Z"
+        },
+        {
+          "id": "surveillanceNote",
+          "name": "감시실 작업 메모",
+          "path": "M476 554L741 555L826 590L445 594Z"
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "진단 기록",
+      "subtitle": "겹쳐진 원본과 수정본",
+      "chapter": 2,
+      "asset": "assets/backgrounds/S08.png",
+      "hotspots": [
+        {
+          "id": "ledgerTerminal",
+          "name": "장부 진단 단말기",
+          "path": "M507 193L1159 194L1157 555L509 555Z"
+        },
+        {
+          "id": "ledgerBook",
+          "name": "보관된 원본 장부",
+          "path": "M1219 590L1559 626L1567 735L1224 710Z"
+        },
+        {
+          "id": "filmReader",
+          "name": "진단 스트립 투입구",
+          "path": "M48 337L402 335L400 676L49 673Z"
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "음성 기록실",
+      "subtitle": "명단부터 보내",
+      "chapter": 2,
+      "asset": "assets/backgrounds/S09.png",
+      "hotspots": [
+        {
+          "id": "archive",
+          "name": "음성 복원 단말기",
+          "path": "M609 250L1113 250V507H609Z"
+        },
+        {
+          "id": "tapes",
+          "name": "원본 채널 슬롯",
+          "path": "M650 541H1095V607H650Z"
+        },
+        {
+          "id": "archiveNote",
+          "name": "기록실 쪽지",
+          "path": "M1268 536L1548 561L1532 608L1254 575Z"
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "name": "송신실",
+      "subtitle": "키는 인계가 아니라 회수",
+      "chapter": 2,
+      "asset": "assets/backgrounds/S10.png",
+      "hotspots": [
+        {
+          "id": "transmission",
+          "name": "구조 명단 단말기",
+          "path": "M620 291H1191V587H620Z"
+        },
+        {
+          "id": "photoBoard",
+          "name": "사진과 화물 표식",
+          "path": "M121 281H521V626H121Z"
+        },
+        {
+          "id": "recoveryBox",
+          "name": "회수함",
+          "path": "M1319 399L1593 396V780H1318Z"
+        }
+      ]
+    },
+    {
+      "id": "S11",
+      "name": "차량 귀환",
+      "subtitle": "마지막 시동을 위한 준비",
+      "chapter": 3,
+      "asset": "assets/backgrounds/S11.png",
+      "hotspots": [
+        {
+          "id": "returnTerminal",
+          "name": "프레임 토큰 단말기",
+          "path": "M816 512L1197 512L1214 687L807 688Z"
+        },
+        {
+          "id": "latches",
+          "name": "프레임의 세 잠금쇠",
+          "path": "M509 246H1186V332H509Z"
+        },
+        {
+          "id": "returnNote",
+          "name": "차량에 남긴 표시",
+          "path": "M972 796H1040V832H972Z"
+        }
+      ]
+    },
+    {
+      "id": "S12",
+      "name": "프레임 진단",
+      "subtitle": "두 회로의 공통 접점",
+      "chapter": 3,
+      "asset": "assets/backgrounds/S12.png",
+      "hotspots": [
+        {
+          "id": "circuitTerminal",
+          "name": "프레임 회로 진단",
+          "path": "M473 131H1240L1266 154V551L1240 576H474L450 552V155Z"
+        },
+        {
+          "id": "circuitSlots",
+          "name": "상하 회로 판독부",
+          "path": "M533 600H803L824 619V699L805 720H534L513 699V620Z M889 600H1166L1186 619V699L1166 720H890L868 699V620Z"
+        }
+      ]
+    },
+    {
+      "id": "S13",
+      "name": "출구 단말기",
+      "subtitle": "두 번 남기고 멈춰",
+      "chapter": 3,
+      "asset": "assets/backgrounds/S13.png",
+      "hotspots": [
+        {
+          "id": "gateTerminal",
+          "name": "출구 경로 단말기",
+          "path": "M968 300L1501 302L1551 566L918 564Z"
+        },
+        {
+          "id": "gateShutter",
+          "name": "닫힌 시설 출구",
+          "path": "M142 191H710V592H142Z"
+        },
+        {
+          "id": "gateSlot",
+          "name": "승인 토큰 발급구",
+          "path": "M1121 660H1278V714H1121Z"
+        }
+      ]
+    },
+    {
+      "id": "S14",
+      "name": "마지막 시동",
+      "subtitle": "돌아갈 준비가 끝났다",
+      "chapter": 3,
+      "asset": "assets/backgrounds/S14.png",
+      "hotspots": [
+        {
+          "id": "dashboard",
+          "name": "게임 대시보드",
+          "path": "M736 466H1258V657H736Z"
+        },
+        {
+          "id": "keySlot",
+          "name": "게임 스마트키 슬롯",
+          "path": "M916 791H1045V822H916Z"
+        },
+        {
+          "id": "startButton",
+          "name": "게임 시동 버튼",
+          "path": "M1082 774Q1143 753 1147 797Q1148 832 1104 831Q1073 829 1082 774Z"
+        }
+      ]
+    }
+  ],
+  "items": {
+    "photo": {
+      "name": "훼손 사진",
+      "asset": "assets/items/photo.png",
+      "description": "모르는 여자. 그런데 함께 찍힌 차는 이 차와 닮았다. 찢긴 쪽에는 누가 있었을까."
+    },
+    "manualA": {
+      "name": "안내서 조각 A",
+      "asset": "assets/documents/manual-A.svg",
+      "description": "삼각형의 일부와 점선. 다른 절반이 있어야 뜻을 알 수 있다."
+    },
+    "manualB": {
+      "name": "안내서 조각 B",
+      "asset": "assets/documents/manual-B.svg",
+      "description": "끝이 맞아떨어지는 찢어진 종이. 화살표가 중간에서 끊겨 있다."
+    },
+    "card": {
+      "name": "메모리 카드",
+      "asset": "assets/items/card.png",
+      "description": "표면에 작은 파형이 그려져 있다. 이 차의 USB에는 바로 꽂을 수 없다."
+    },
+    "reader": {
+      "name": "카드 리더기",
+      "asset": "assets/items/reader.png",
+      "description": "옆면의 슬롯은 메모리 카드와 같은 크기다. USB 단자가 있다."
+    },
+    "usb": {
+      "name": "카드+리더기",
+      "asset": "assets/items/reader.png",
+      "description": "메모리 카드를 넣은 리더기. 중앙 USB 포트에 사용할 수 있다."
+    },
+    "manualJoined": {
+      "name": "맞춘 안내서",
+      "asset": "assets/documents/manual-joined.svg",
+      "description": "두 조각이 하나가 됐다. 어긋난 선과 점선은 무엇을 뜻할까."
+    },
+    "foldNote": {
+      "name": "접기 표시",
+      "asset": "assets/documents/fold-mark.svg",
+      "description": "왼쪽 부분을 안으로, 아래 부분을 위로. 안내서의 점선과 같은 간격이다."
+    },
+    "manualFolded": {
+      "name": "접은 개방 도면",
+      "asset": "assets/documents/manual-folded.svg",
+      "description": "천장 커버 뒤 삼각 소켓. 반시계 90도 다음 시계 180도. 마지막으로 유리를 민다."
+    },
+    "tool": {
+      "name": "삼각 수동 도구",
+      "asset": "assets/items/tool.png",
+      "description": "닳은 황동 손잡이. 천장 부품의 삼각 기호와 같다."
+    },
+    "diagnosticStrip": {
+      "name": "진단 스트립",
+      "asset": "assets/documents/diagnostic-strip.svg",
+      "description": "05가 먼저 비었고 04가 나중에 반입됐다. 원본 장부 대조에 사용할 수 있다."
+    },
+    "waveLeft": {
+      "name": "녹음 조각 L",
+      "asset": "assets/documents/wave-left.svg",
+      "description": "원본 L 채널 / 02:05 / 윤서의 파형 조각. 왼쪽 슬롯에 맞는 식별 표식."
+    },
+    "waveRight": {
+      "name": "녹음 조각 R",
+      "asset": "assets/documents/wave-right.svg",
+      "description": "원본 R 채널 / 02:17 / 회수 지시가 담긴 파형 조각."
+    },
+    "originalLedger": {
+      "name": "원본 반입 장부",
+      "asset": "assets/documents/original-ledger.svg",
+      "description": "사진 A/B/C의 화물 표식과 M-01·M-03·M-04 원본 기록을 연결한다. M-05 수정 이력도 남아 있다."
+    },
+    "smartKey": {
+      "name": "회수된 스마트키",
+      "asset": "assets/items/smartKey.png",
+      "description": "게임 대시보드의 슬롯에 사용할 열쇠. 실제 차량 시동과 연동되지 않는다."
+    },
+    "frameToken": {
+      "name": "프레임 토큰",
+      "asset": "assets/items/frameToken.png",
+      "description": "프레임 04의 토큰 판독기에 사용할 수 있다."
+    },
+    "gateDiagram": {
+      "name": "출구 개방 도면",
+      "asset": "assets/documents/gate-diagram.svg",
+      "description": "개방 통로: 서쪽 회랑–중앙 교차–동쪽 출구. 빗방울 2개 뒤 정지 기호. 복원된 두 경로를 겹쳐야 한다."
+    },
+    "gateToken": {
+      "name": "출구 승인 토큰",
+      "asset": "assets/documents/gate-token.svg",
+      "description": "경로 C 승인. 게임 대시보드에서 확인할 수 있다."
+    }
+  },
+  "notes": {
+    "frame": [
+      "프레임 04",
+      "차가 금속 운송 프레임 안에 고정돼 있다. 감시 카메라가 이 차를 향한다. 옆문은 열 수 없고 위쪽에만 여유가 있다."
+    ],
+    "occupancy": [
+      "가방 고정 끈",
+      "게임 속 가방을 고정하던 끈을 풀었다. 실제 안전벨트 조작은 필요하지 않다."
+    ],
+    "photo": [
+      "훼손된 사진",
+      "사진 속 여자와 차. 낯선 얼굴인데도 손이 먼저 사진을 뒤집으려 했다."
+    ],
+    "record": [
+      "인수 기록",
+      "M-04 / 최종 운행 02:17 / 회수 예정 03:40 / 동승자 인계 훼손 / 상태 보류. 이 시각은 기록이며 카운트다운이 아니다."
+    ],
+    "voices": [
+      "손상된 녹음",
+      "좌우 채널에 서로 다른 목소리가 들어 있다. 오디오 밸런스로 나누어 들을 수 있다."
+    ],
+    "voiceLeft": [
+      "왼쪽 목소리",
+      "“흔적은 지워도 남아.” 유리의 손자국을 가리키는 여자의 목소리."
+    ],
+    "voiceRight": [
+      "오른쪽 목소리",
+      "“끝까지 밀어. 그 아래.” 익숙한 남자의 목소리."
+    ],
+    "glass": [
+      "거울 속 문장",
+      "“끝까지. 그 아래.” 문장 밑의 그림은 시트 레일이다. 운전석을 앞으로 끝까지 보내고 뒤에서 확인하라는 뜻 같다."
+    ],
+    "tool": [
+      "레일 아래의 도구",
+      "시트 끝까지 이동하자 손이 들어가는 공간이 생겼다. 도구의 삼각 기호와 천장 점검 기호가 같다."
+    ],
+    "fold": [
+      "테두리의 접기 표시",
+      "안내서 왼쪽 1/3을 가운데로, 아래 1/3을 위로 접는다."
+    ],
+    "manual": [
+      "완성된 수동 도면",
+      "삼각 소켓에 도구를 넣고 반시계 90도 → 시계 180도. 도면은 천장 점검 커버의 위치를 가리킨다."
+    ],
+    "roof": [
+      "위쪽의 문",
+      "수동 잠금 장치가 해제됐다. 선루프를 밀어 열면 위로 빠져나갈 수 있다."
+    ],
+    "frameRain": [
+      "갈라진 물막",
+      "와이퍼 OFF에서 작동으로 넘어가자 프레임 04가 드러났다."
+    ],
+    "film": [
+      "누락된 프레임 05",
+      "02:05에 05가 비었고 02:17에 04가 반입됐다. 05는 이후 인계된 것이 아니다."
+    ],
+    "forgery": [
+      "조작된 M-05 기록",
+      "원본 02:05 M-05 출구 대기가 수정본 02:18 M-05 인계 완료로 바뀌었다. 프레임은 그 전에 비어 있었다."
+    ],
+    "yunseo": [
+      "윤서의 원본 지시",
+      "L: “05는 비어 있어. 명단부터 보내.” R: “키는 인계가 아니라 회수.” 명단 송신 후 송신실 회수함을 조사한다."
+    ],
+    "rainOrder": [
+      "마지막 녹음의 기호",
+      "녹음 끝의 짧은 말: “두 번 남기고 멈춰.” 두 번의 작동 진입과 마지막 정지. 실제 와이퍼 왕복 횟수가 아니다."
+    ],
+    "manifest": [
+      "명단 송신 확인",
+      "사진 A=M-01, B=M-03, C=M-04. 윤서의 M-05 수정 이력을 첨부했다. 이 송신은 게임 속 사건이다."
+    ],
+    "latch": [
+      "주 잠금 해제",
+      "연결선은 가운데 잠금쇠를 지난다. 1막의 와이퍼 관찰과 별개로 새 순서를 입력해 해제했다."
+    ],
+    "circuit": [
+      "공통 삼각 접점",
+      "상단과 하단에 공통인 삼각 접점을 연결해 운송 프레임을 해제했다."
+    ],
+    "gate": [
+      "출구 승인",
+      "차단 구간을 피하고 두 기록 층과 도면이 겹치는 경로 C가 승인됐다."
+    ],
+    "archiveLeft": [
+      "원본 L 채널",
+      "윤서: “05는 비어 있어. 명단부터 보내.” 원본 출처 02:05."
+    ],
+    "archiveRight": [
+      "원본 R 채널",
+      "“키는 인계가 아니라 회수.” 녹음 끝: “두 번 남기고 멈춰.” 원본 출처 02:17."
+    ]
+  },
+  "canvas": [
+    1672,
+    941
+  ],
+  "sprites": {
+    "bag": {
+      "asset": "assets/items/bag.png",
+      "box": [
+        235,
+        352,
+        500,
+        417
+      ]
+    },
+    "bagMoved": {
+      "asset": "assets/items/bag.png",
+      "box": [
+        718,
+        692,
+        295,
+        246
+      ]
+    },
+    "coat": {
+      "asset": "assets/items/coat.png",
+      "box": [
+        243,
+        397,
+        510,
+        287
+      ]
+    },
+    "tool": {
+      "asset": "assets/items/tool.png",
+      "box": [
+        810,
+        632,
+        178,
+        119
+      ]
+    }
+  }
+}

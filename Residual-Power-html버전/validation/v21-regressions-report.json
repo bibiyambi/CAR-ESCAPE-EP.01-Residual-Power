@@ -1,0 +1,51 @@
+{
+  "version": "2.1",
+  "passed": 11,
+  "total": 11,
+  "tests": [
+    {
+      "name": "returning to the previous state revokes a short candidate",
+      "passed": true
+    },
+    {
+      "name": "changing LOW to MID before hold cannot reveal fog",
+      "passed": true
+    },
+    {
+      "name": "missing, string, NaN and infinite timestamps are rejected",
+      "passed": true
+    },
+    {
+      "name": "null and malformed packets do not throw",
+      "passed": true
+    },
+    {
+      "name": "an old puzzle UNKNOWN event cannot cancel the current candidate",
+      "passed": true
+    },
+    {
+      "name": "permission revocation during hold prevents completion",
+      "passed": true
+    },
+    {
+      "name": "pause discards unfinished hold and rejects events until explicit resume",
+      "passed": true
+    },
+    {
+      "name": "scene departure disarms old puzzle packets",
+      "passed": true
+    },
+    {
+      "name": "key and token confirmation failures name only the missing steps",
+      "passed": true
+    },
+    {
+      "name": "each inspected archive channel is retained in notes immediately",
+      "passed": true
+    },
+    {
+      "name": "noncanonical scene IDs and invalid chapter values do not break navigation",
+      "passed": true
+    }
+  ]
+}
