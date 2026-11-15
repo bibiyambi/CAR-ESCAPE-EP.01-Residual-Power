@@ -1,0 +1,9 @@
+pillow
+numpy
+cairosvg
+opencv-python-headless
+fonttools
+brotli
+scipy
+pymupdf
+edge-tts

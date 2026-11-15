@@ -1,0 +1,14 @@
+[
+  {"id":"s17-landscape","label":"Connect-S 17 · 가로","family":"Connect-S","displayDp":[2560,1440],"dpi":160,"windowDp":[1700,1184]},
+  {"id":"s17-portrait","label":"Connect-S 17 · 세로 분할","family":"Connect-S","displayDp":[2560,1440],"dpi":160,"windowDp":[840,1184]},
+  {"id":"s146-landscape","label":"Connect-S 14.6 · 가로","family":"Connect-S","displayDp":[2048,1152],"dpi":200,"windowDp":[1360,948]},
+  {"id":"s146-portrait","label":"Connect-S 14.6 · 세로 분할","family":"Connect-S","displayDp":[2048,1152],"dpi":200,"windowDp":[672,948]},
+  {"id":"s129-landscape","label":"Connect-S 12.9 (구 L) · 가로","family":"Connect-S","displayDp":[1920,1080],"dpi":160,"windowDp":[1274,855]},
+  {"id":"s129-portrait","label":"Connect-S 12.9 (구 L) · 세로 분할","family":"Connect-S","displayDp":[1920,1080],"dpi":160,"windowDp":[628,855]},
+  {"id":"w-landscape","label":"Connect-W Standard · 가로","family":"Connect-W","displayDp":[3840,850],"dpi":160,"windowDp":[1640,810]},
+  {"id":"w-portrait","label":"Connect-W Standard · 세로 분할","family":"Connect-W","displayDp":[3840,850],"dpi":160,"windowDp":[800,810]},
+  {"id":"we-landscape","label":"Connect-W Extended · 가로","family":"Connect-W-Extended","displayDp":[3840,1440],"dpi":160,"windowDp":[1640,1400]},
+  {"id":"we-portrait","label":"Connect-W Extended · 세로 분할","family":"Connect-W-Extended","displayDp":[3840,1440],"dpi":160,"windowDp":[800,1400]},
+  {"id":"wf-landscape","label":"Connect-WF · 가로","family":"Connect-WF","displayDp":[3072,816],"dpi":200,"windowDp":[1256,800]},
+  {"id":"wf-portrait","label":"Connect-WF · 세로 분할","family":"Connect-WF","displayDp":[3072,816],"dpi":200,"windowDp":[648,800]}
+]

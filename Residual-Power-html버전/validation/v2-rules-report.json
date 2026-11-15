@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "tests": [
+    {
+      "name": "ON completes all acts with input plus reasoning, without any vehicle command API",
+      "passed": true
+    },
+    {
+      "name": "input alone never grants film, ledger, latch, circuit, route answers",
+      "passed": true
+    },
+    {
+      "name": "stable hold is at least 700ms and duplicates do not advance",
+      "passed": true
+    },
+    {
+      "name": "wrong source, epoch, stale, quality, unrelated signal rejected",
+      "passed": true
+    },
+    {
+      "name": "mode change clears unfinished input but retains clues and items",
+      "passed": true
+    },
+    {
+      "name": "unsupported mode switch never auto changes mode or solves",
+      "passed": true
+    },
+    {
+      "name": "AUTO is never wiper ACTIVE and fan mapping must distinguish ranges",
+      "passed": true
+    },
+    {
+      "name": "stale and unknown V00 block both modes",
+      "passed": true
+    },
+    {
+      "name": "old P01 success cannot satisfy fresh return-car puzzle",
+      "passed": true
+    },
+    {
+      "name": "P15 blocks every missing mandatory prerequisite",
+      "passed": true
+    },
+    {
+      "name": "early game object solutions and bag/glovebox order accepted",
+      "passed": true
+    },
+    {
+      "name": "v2 restores completed clues, never an armed input or safety authorization",
+      "passed": true
+    },
+    {
+      "name": "v1 migration preserves old save and completed act, resets changed unfinished strap/fog",
+      "passed": true
+    },
+    {
+      "name": "wrong clue conclusions cannot skip logic prerequisites",
+      "passed": true
+    },
+    {
+      "name": "verified VEHICLE packets work in OFF and SIMULATION packets do not",
+      "passed": true
+    },
+    {
+      "name": "uncertain current signal revokes an unfinished stable candidate",
+      "passed": true
+    },
+    {
+      "name": "deprecated belt and mixed input/discovery flags are absent from v2 saves",
+      "passed": true
+    }
+  ],
+  "passed": 17,
+  "vehicleWrites": 0
+}
